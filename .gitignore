@@ -1,7 +1,7 @@
 # NPM packages folder.
 # node_modules
 
-# .env
+.env
 
 # Build files
 dist/
@@ -28,4 +28,4 @@ npm-debug.log*
 coverage
 
 .history/
-# node_modules
+node_modules
